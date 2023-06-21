@@ -1,0 +1,7 @@
+
+Encapsultaion
+Bir araç kiralama uygulaması tasarlıyorsunuz.
+Araç sınıfı, araç markası, modeli, yakıt türü, günlük kira ücreti gibi özelliklere sahiptir.
+Bu özelliklere erişim sadece aracın kendi sınıfından yapılmalıdır.
+
+Bu durumu encapsulation konseptiyle modellenen bir programla simüle edin.

@@ -1,0 +1,9 @@
+Inheritance
+Bir banka müşteri yönetim sistemi tasarlıyorsunuz.
+Banka müşterileri arasında bireysel müşteriler ve kurumsal müşteriler bulunmaktadır.
+Her iki müşteri türü de müşteri adı, müşteri numarası ve hesap bakiyesi gibi ortak özelliklere sahiptir.
+Her iki müşteri türüne ait para yatırma ve para çekme fonksiyonları olmalıdır.
+Bireysel müşterilerin ayrıca T.C. kimlik numarası ve doğum tarihi bilgileri vardır.
+Kurumsal müşterilerin ise vergi numarası ve şirket adı bilgileri bulunmaktadır.
+
+Bu durumu inheritance konseptiyle modellenen bir programla simüle edin.
